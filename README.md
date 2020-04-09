@@ -7,4 +7,6 @@ My Theme for the assignment is a  Movie Library
 ![image](https://user-images.githubusercontent.com/60622536/78863629-13e01100-7a08-11ea-9056-7806b72d3369.png)
 ![image](https://user-images.githubusercontent.com/60622536/78863662-25c1b400-7a08-11ea-8d39-4ee065df3796.png)
 ![image](https://user-images.githubusercontent.com/60622536/78863711-3eca6500-7a08-11ea-84eb-34609a9ededc.png)
+![image](https://user-images.githubusercontent.com/60622536/78863796-6b7e7c80-7a08-11ea-97b6-38c3a79eb91a.png)
+![image](https://user-images.githubusercontent.com/60622536/78863832-7b965c00-7a08-11ea-8cc1-e0bc474c3c6b.png)
 
